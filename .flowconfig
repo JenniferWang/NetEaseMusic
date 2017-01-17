@@ -1,0 +1,10 @@
+[ignore]
+.*/build/.*
+
+[include]
+node_modules/
+
+[libs]
+
+[options]
+module.system=node
